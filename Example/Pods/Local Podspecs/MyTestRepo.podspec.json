@@ -1,0 +1,22 @@
+{
+  "name": "MyTestRepo",
+  "version": "0.1.0",
+  "summary": "A short description of MyTestRepo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/291305571@qq.com/MyTestRepo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "291305571@qq.com": "gaozhihong180702@credithc.com"
+  },
+  "source": {
+    "git": "https://github.com/291305571@qq.com/MyTestRepo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MyTestRepo/Classes/**/*"
+}
